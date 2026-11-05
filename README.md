@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 19-year-old Computer Science student at **VIT Bhopal**, and I learn by building. I taught myself game development, basic electronics, and a lot more by doing things hands-on instead of waiting for a syllabus to teach me.
+I'm a 20-year-old Computer Science student at **VIT Bhopal**, and I learn by building. I taught myself game development, basic electronics, and a lot more by doing things hands-on instead of waiting for a syllabus to teach me.
 
 My goal is to use my college years to build real products and real skills, either a serious business outcome or a portfolio strong enough to land a great tech role.
 
